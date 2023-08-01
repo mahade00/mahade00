@@ -2,6 +2,7 @@
 I am Mahade from Dhaka, Bangladesh. Passionate Front End Developer. Eager to catch new technologies.
 
 ### Connect me with
+<p align="left"> <a href="https://www.linkedin.com/in/mahade00" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ### Skills 
 <p align="left">
