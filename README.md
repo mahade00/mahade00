@@ -1,7 +1,7 @@
 <h1 align="center"> Assalamu Alaikum  (Peace be upon you)👋, I'm Mahade</h1>
 <h3 align="center">A passionate frontend developer from Dhaka, Bangladesh</h3>
 
-- 📫 How to reach me **mahade.hassan.bd@gmail.com**
+
 
 ## 🌐 Socials:
 <p align="left">
@@ -22,6 +22,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mahade00&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+- 📫 How to rmahade.hassan.bd@gmail.com**each me **
 [![](https://visitcount.itsvg.in/api?id=mahade00&icon=0&color=0)](https://visitcount.itsvg.in)
 
 </p>
